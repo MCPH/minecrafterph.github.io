@@ -1,0 +1,4 @@
+= Hi!
+
+Hi guys! Welcome to my blog. This is where I'll be posting beta tests of my plugins and some information about it.
+
