@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "MinecrafterPH",
-    "repositoryName": "minecrafterph.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"MinecrafterPH","repositoryName":"minecrafterph.github.io","branch":"master"},"site":{"title":"MinecrafterPH's Dev Blog","postsPerPage":"5","url":"https://MinecrafterPH.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//MinecrafterPH.github.io/themes/Casper"}}
